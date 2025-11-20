@@ -1,0 +1,1 @@
+"Zain the Stack ensures new cars are sold first, strictly following the Last-In, First-Out (LIFO) rules."
