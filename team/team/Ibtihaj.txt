@@ -1,0 +1,1 @@
+Ibtihaj the Doubly Linked List connects all inventory records and can traverse the data in two directions."
